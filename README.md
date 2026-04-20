@@ -67,43 +67,8 @@ Week 8 – Launch & Review
 
 Deploy updated site. 
 Monitor performance and prepare final project report. 
-# ChangeLog
-In this
 
-# References:  
-
-Introduction (History of Charly’s Bakery) 
-
-Charly’s Bakery. (n.d.) History. Available at: https://charlysbakery.co.za  
-https://www.capetownetc.com  
-Food & Home Magazine. (2023) ‘Baking dreams into reality: The Charly’s Bakery story’, Food & Home, 10 August. Available at: https://www.foodandhome.co.za  
-
-Mission and Vision Statements 
-
-Vision and Mission Statements for Bakeries  Available at: https://helpfulprofessor.com 
-https://businessplanner.com  
-‘Developing Your Bakery Mission Statement + Examples’. Available at: https://bakerymavericks.com  
-
-Website Goals and Objectives 
-
-Website Goals & Objectives to Set (with Examples) https://5minutesseo.com  
-Website Goals and Objectives.  https://digitalgrowth.com  
-
-Design and User Experience 
-
-https://blog.hubspot.com  
-10 Best Practices in User Experience UX Design for 2025’.  https://uxdesign.com  
-Available at: https://contentsquare.com 
-
-Technical Requirements 
-
- Bakery or Confectionery’. Available at: https://abbacustechnologies.com  
- Available at: https://wpastra.com (Accessed: 27 February 2026). 
-:Complete Business Guide’. Available at: https://createawebsite.com  
-
-<img width="1920" height="1080" alt="Charly&#39;s Bakery Site Map" src="https://github.com/user-attachments/assets/cd280c1b-3ff1-4a16-9ecc-37446244d8f4" />
-
-## Changelog
+# Changelog
 
 ## Week 1 – Research & Analysis
 - Reviewed current Charly’s Bakery website for usability, SEO, and customer journey.
@@ -141,6 +106,43 @@ Technical Requirements
 - Plugins: E‑commerce integration, secure payment gateway, inventory management  
 - Design: Playful typography, responsive layouts, accessibility features  
 - Budget Items:** Domain registration, hosting, plugins, SEO tools, design enhancements, maintenance  
+
+
+# References:  
+
+Introduction (History of Charly’s Bakery) 
+
+Charly’s Bakery. (n.d.) History. Available at: https://charlysbakery.co.za  
+https://www.capetownetc.com  
+Food & Home Magazine. (2023) ‘Baking dreams into reality: The Charly’s Bakery story’, Food & Home, 10 August. Available at: https://www.foodandhome.co.za  
+
+Mission and Vision Statements 
+
+Vision and Mission Statements for Bakeries  Available at: https://helpfulprofessor.com 
+https://businessplanner.com  
+‘Developing Your Bakery Mission Statement + Examples’. Available at: https://bakerymavericks.com  
+
+Website Goals and Objectives 
+
+Website Goals & Objectives to Set (with Examples) https://5minutesseo.com  
+Website Goals and Objectives.  https://digitalgrowth.com  
+
+Design and User Experience 
+
+https://blog.hubspot.com  
+10 Best Practices in User Experience UX Design for 2025’.  https://uxdesign.com  
+Available at: https://contentsquare.com 
+
+Technical Requirements 
+
+ Bakery or Confectionery’. Available at: https://abbacustechnologies.com  
+ Available at: https://wpastra.com (Accessed: 27 February 2026). 
+:Complete Business Guide’. Available at: https://createawebsite.com 
+
+
+<img width="1920" height="1080" alt="Charly&#39;s Bakery Site Map" src="https://github.com/user-attachments/assets/cd280c1b-3ff1-4a16-9ecc-37446244d8f4" />
+
+
 
  
 

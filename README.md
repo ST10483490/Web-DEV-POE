@@ -7,7 +7,9 @@ Lecture: Miss Angel Rakhumba
 # Project Overview
 
 This project focuses on redesigning Charly’s Bakery’s website to better reflect its vibrant identity while improving usability and business performance. Charly’s Bakery, a family-run institution in Cape Town since 1989, blends tradition with creativity and serves a diverse audience of customers, donors, and volunteers.  
-The redesigned website aims to increase brand visibility, boost sales, and grow community engagement through donations and volunteer support. Key objectives include enhancing navigation, improving readability, and integrating e-commerce functionality. Success will be measured using KPIs such as website traffic, conversion rates, customer retention, and SEO ranking.  
+The redesigned website aims to increase brand visibility, boost sales, and grow community engagement through donations and volunteer support. 
+
+Key objectives include enhancing navigation, improving readability, and integrating e-commerce functionality. Success will be measured using KPIs such as website traffic, conversion rates, customer retention, and SEO ranking.  
 Proposed features include a bright homepage, detailed product sections, a custom order form, gallery, blog/news updates, and a responsive design optimized for mobile. The site will be built using HTML, CSS, and JavaScript, with secure payment integration and inventory management plugins.  
 The project will follow an eight-week timeline covering research, development, e-commerce integration, testing, and launch. Estimated costs include domain registration (~R220/year), hosting (~R3,000/year), and e-commerce plugins (~R6,000/year).  
 
@@ -15,7 +17,9 @@ The project will follow an eight-week timeline covering research, development, e
 
 The website aims to enhance user experience while achieving business objectives: 
 Increase brand visibility and awareness. 
+
 Boost sales and profitability. 
+
 Grow donations, volunteers, and fundraising. 
 Key Performance Indicators (KPIs): Website traffic, bounce rate, conversion rate, average order value, cart abandonment, customer retention, SEO ranking, and social media engagement.
 

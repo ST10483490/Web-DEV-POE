@@ -1,3 +1,4 @@
+
 # Project Tile
 Charily's Bakery
 # Student Information
@@ -97,6 +98,8 @@ Technical Requirements
  Bakery or Confectionery’. Available at: https://abbacustechnologies.com  
  Available at: https://wpastra.com (Accessed: 27 February 2026). 
 :Complete Business Guide’. Available at: https://createawebsite.com  
+
+<img width="1920" height="1080" alt="Charly&#39;s Bakery Site Map" src="https://github.com/user-attachments/assets/d995525c-2dd2-457c-a6c6-f879f4e220ac" />
 
  
 

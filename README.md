@@ -67,8 +67,10 @@ Week 8 – Launch & Review
 
 Deploy updated site. 
 Monitor performance and prepare final project report. 
+# ChangeLog
+In this
 
-References:  
+# References:  
 
 Introduction (History of Charly’s Bakery) 
 
@@ -101,6 +103,44 @@ Technical Requirements
 
 <img width="1920" height="1080" alt="Charly&#39;s Bakery Site Map" src="https://github.com/user-attachments/assets/cd280c1b-3ff1-4a16-9ecc-37446244d8f4" />
 
+## Changelog
+
+## Week 1 – Research & Analysis
+- Reviewed current Charly’s Bakery website for usability, SEO, and customer journey.
+- Benchmarked against competitor bakery websites.
+- Gathered customer feedback to identify pain points.
+
+## Week 2 – Setup & Planning
+- Defined project goals: online ordering, mobile responsiveness, SEO improvements.
+- Set up hosting, domain, and project tools.
+- Drafted initial project proposal and timeline.
+
+## Weeks 3–4 – Development
+- Redesigned homepage, menu, and contact pages.
+- Simplified navigation into broader categories.
+- Applied consistent branding and colour palette (raspberry pink, mint green, cream, chocolate brown, buttery yellow).
+- Implemented responsive design for mobile users.
+
+## Weeks 5–6 – E‑commerce Integration
+- Added online ordering system for cakes, events, and merchandise.
+- Integrated secure payment gateway.
+- Configured plugins for inventory and customer management.
+
+## Week 7 – Testing & Feedback
+- Conducted usability tests with sample customers.
+- Fixed bugs and optimized site speed.
+- Improved checkout flow and reduced cart abandonment.
+
+## Week 8 – Launch & Review
+- Deployed updated website.
+- Monitored performance using KPIs (traffic, conversion rate, SEO ranking, customer retention).
+- Prepared final project report.
+
+### Tools & Technologies Used
+- Tech Stack: HTML, CSS, JavaScript  
+- Plugins: E‑commerce integration, secure payment gateway, inventory management  
+- Design: Playful typography, responsive layouts, accessibility features  
+- Budget Items:** Domain registration, hosting, plugins, SEO tools, design enhancements, maintenance  
 
  
 

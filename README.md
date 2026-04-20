@@ -32,7 +32,7 @@ Products: Sections for cakes, cupcakes, cookies, vegan options, and merchandise 
 Custom Orders: Guided form with options for size, flavour, and decorations. 
 Contact Page: Address, map, enquiry form, and instant messaging links. 
 Gallery: Showcase of past creations with testimonials. 
-Blog/News: Updates, seasonal specials, and community events. 
+
 
 # Timeline and milestones:  
 
